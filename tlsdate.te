@@ -1,0 +1,4 @@
+policy_module(tlsdate, 1.0.0)
+
+require {
+}
